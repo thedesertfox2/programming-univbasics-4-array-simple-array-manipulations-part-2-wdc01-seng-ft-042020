@@ -11,7 +11,7 @@ def using_uniq (a)
 end
 
 def using_flatten
-  
+  return a.flatten
 end
 
 def using_delete
