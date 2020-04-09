@@ -6,7 +6,7 @@ def using_insert (a, b)
   return a.insert(4, b)
 end
 
-def using_uniq
+def using_uniq (a)
   return a.uniq
 end
 
