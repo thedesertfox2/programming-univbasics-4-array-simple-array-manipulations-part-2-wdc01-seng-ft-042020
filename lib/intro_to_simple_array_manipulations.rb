@@ -1,5 +1,5 @@
 def using_concat(a, b)
-  puts a.concat(b)
+  return a = a.concat(b)
 end
 
 def using_insert
