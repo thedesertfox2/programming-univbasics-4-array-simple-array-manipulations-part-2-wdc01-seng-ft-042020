@@ -4,5 +4,5 @@ def using_concat (my_favorite_things, more_favs)
   puts "my_favorite_things: #{my_favorite_things}"
   puts "more_favs: #{more_favs}"
   
-  
+  all_my_favs 
 end
