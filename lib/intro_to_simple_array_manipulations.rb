@@ -16,9 +16,8 @@ end
 
 def using_delete (a, b)
   return a.delete(b)
-  
 end
 
-def using_delete_at
-  
+def using_delete_at (a, b)
+  a.delete_at()
 end
