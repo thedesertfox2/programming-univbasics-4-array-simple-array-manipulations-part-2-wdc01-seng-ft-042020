@@ -14,7 +14,8 @@ def using_flatten (a)
   return a.flatten
 end
 
-def using_delete 
+def using_delete (a, b)
+  return 
   
 end
 
