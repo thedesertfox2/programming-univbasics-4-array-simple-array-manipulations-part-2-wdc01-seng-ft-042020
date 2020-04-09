@@ -15,7 +15,7 @@ def using_flatten (a)
 end
 
 def using_delete (a, b)
-  return 
+  return a.delete(b)
   
 end
 
