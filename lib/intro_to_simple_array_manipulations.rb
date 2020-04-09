@@ -3,7 +3,7 @@ def using_concat(a, b)
 end
 
 def using_insert (a, b)
-  a.insert(3)
+  a.insert(b)
 end
 
 def using_uniq
